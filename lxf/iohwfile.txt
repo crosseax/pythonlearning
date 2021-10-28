@@ -1,0 +1,7 @@
+This is a Homework file.
+
+I repeat, this is a homework file.
+
+For IO read and write.
+
+123456789
